@@ -10,7 +10,7 @@ const AboutUs: React.FC = () => {
 
         <div className="space-y-8">
           <div className="bg-gray-800/50 backdrop-blur-sm rounded-lg p-8 shadow-xl">
-            <h3 className="text-2xl font-semibold mb-4 text-blue-400">Our Mission</h3>
+            <h3 className="text-2xl font-semibold mb-4 text-blue-400">Mega mission Yey yey</h3>
             <p className="text-lg text-gray-300 leading-relaxed">
               Welcome to Cosmic Worlds, your gateway to exploring the wonders of our solar system
               and beyond. We are dedicated to bringing the beauty and mystery of planets to everyone,
